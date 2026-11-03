@@ -2,6 +2,8 @@
 
 A diagonalized attention mechanism for individualized regression in language and vision applications
 
+## 📖 Citation
+
 If you find our work useful, please cite our paper:
 
 📄 **Paper:** [Diagonalized Attention for Individualized Regression: Latent-Row Localization and Prediction](https://arxiv.org/abs/2609.21320)
