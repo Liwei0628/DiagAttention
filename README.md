@@ -8,7 +8,7 @@ The repository consists of three main components:
 
 - **`classAttention.py`**: Implements the single-head (`DiagAttRegression`) and multi-head (`MultiDiagAttRegression`) diagonalized attention models, along with training and prediction functions (`RunRegression`).
 - **`utils.py`**: Provides utility functions and classes for data preprocessing, dataset handling, early stopping, and latent-row localization.
-- **`example/`**: Demonstrates the application of diagonalized attention to real-world data.
+- **`example/`**: A practical application to *Sentiment Labelled Sentences* dataset from [the UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences).
 
 ## 📖 Citation
 
