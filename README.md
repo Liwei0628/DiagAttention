@@ -1,6 +1,14 @@
 # Diagonalized Attention for Individualized Regression: Latent-Row Localization and Prediction
 
-A diagonalized attention mechanism for individualized regression in language and vision applications
+A PyTorch implementation of diagonalized attention for individualized regression in language and vision applications.
+
+## 📂 Repository Structure
+
+The repository consists of three main components:
+
+- **`classAttention.py`**: Implements the single-head (`DiagAttRegression`) and multi-head (`MultiDiagAttRegression`) diagonalized attention models, along with training and prediction functions (`RunRegression`).
+- **`utils.py`**: Provides utility functions and classes for data preprocessing, dataset handling, early stopping, and latent-row localization.
+- **`example/`**: Demonstrates the application of diagonalized attention to real-world data.
 
 ## 📖 Citation
 
